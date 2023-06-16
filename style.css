@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=Engagement&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+/* font-family: 
+font-family: ; */
+/* font-family:  */
+:root {
+  --cormon: "Cormorant", serif;
+  --Regular: "Engagement", cursive;
+  --Poppins: "Poppins", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+body > * {
+  margin-bottom: 40px;
+}
+.content {
+  width: 500px;
+  height: 200px;
+  border: 1px solid;
+  text-align: center;
+  padding-top: 50px;
+  /* font-family: "Engagement", cursive; */
+}
+.btn {
+  border: 1px solid rgb(223, 223, 223);
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(57, 53, 53);
+  /* background-color: rgb(169, 255, 255); */
+  cursor: pointer;
+}

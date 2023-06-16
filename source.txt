@@ -1,0 +1,26 @@
+1. while and do while loops;
+   while (condition){
+       
+   }
+   do {
+
+   }
+   while(condition){
+
+   }
+2. array and array methods;
+   1. pop() 
+   2.push()
+   3.shift()
+   4.unshift()
+   5.length()
+   6.forEach()
+   7.filter()
+   8.splice()
+3. object and methods
+1.hasOwnProperty()
+2.delete 
+
+challenges 
+1.contacts oo array ayaad sameynee kadib waxaa sameydaa function oo ku daraayo new contact contacts array lehna sedex parameter(firstName,lastName,phoneNumber) , function soo daawacaya full information ka contactiga loo baasay , parameter ahaan ayaad ugu baasee
+2. inventory object items ka key ahaan ayaad kadhigee, inta kataalaana value ahaan ayaad u siinee example { apples: 3,oranges:  4, bananas: 6 }, waxaad sameydaa function qaadanaya array parameter oo loo baasayo items ka aad iibisay midkastaa waxaa ladoonaya inuu iska jaro inventory kadibna aad soooo daawacdo inta inventory ga ku harte ;
